@@ -1,0 +1,18 @@
+.weather-card {
+  background: #e7f0fd;
+  padding: 20px;
+  width: 300px;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+.details {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.temp {
+  font-size: 30px;
+  margin-left: 10px;
+}
